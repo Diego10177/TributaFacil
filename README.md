@@ -47,7 +47,7 @@ respaldo del sistema.
 ## Verificar
 
 ```powershell
-node --test tests/demo.test.mjs
+npm.cmd test
 npm.cmd run build
 ```
 
